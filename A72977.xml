@@ -1,0 +1,505 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A most excellent song of the loue of young Palmus, and faire Sheldra with their vnfortunate loue. To the tune of Shackley-hay.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1615</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72977</idno>
+            <idno type="STC">STC 19165.5</idno>
+            <idno type="STC">ESTC S124584</idno>
+            <idno type="EEBO-CITATION">99899190</idno>
+            <idno type="PROQUEST">99899190</idno>
+            <idno type="VID">150717</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72977)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150717)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1973:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A most excellent song of the loue of young Palmus, and faire Sheldra with their vnfortunate loue. To the tune of Shackley-hay.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>for I. W[right].,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[c. 1630]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name and date of publication from STC.</note>
+                  <note>Verse - "Young Palmus was a ferriman,".</note>
+                  <note>In two parts, printed side by side.</note>
+                  <note>Reproduction of original in the Pepysian Library, Magdalene College, Cambridge, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="350" facs="tcp:150717:1"/>
+            <head>A moſt excellent Song of the loue of young <hi>Palmus,</hi> and faire <hi>Sheldra,</hi> with their vnfortunate loue.</head>
+            <opener>To the tune of Shackley-hay.</opener>
+            <p>
+               <figure/>
+            </p>
+            <div n="1" type="part">
+               <lg>
+                  <l>YOung <hi>Palmus</hi> was a Ferriman,</l>
+                  <l>whom <hi>Sheldra</hi> faire did loue:</l>
+                  <l>At <hi>Shackley</hi> where her ſhéep did graze,</l>
+                  <l>ſhe there his thoughts did proue.</l>
+                  <l>But he vnkindly ſtole away,</l>
+                  <l>and left his loue at <hi>Shackley hay.</hi>
+                  </l>
+                  <l>
+                     <hi>Fa, la la, fa, la la la la.</hi>
+                  </l>
+                  <l>So loud at <hi>Shackley</hi> did ſhe cry,</l>
+                  <l>the woods reſound at <hi>Shackley-hay.</hi>
+                  </l>
+                  <l>
+                     <hi>Fa, la la, fa, la la la la.</hi>
+                  </l>
+                  <l>But all in vaine ſhe did complaine,</l>
+                  <l>for nothing cauld him moue:</l>
+                  <l>Till wind did turne him backe againe,</l>
+                  <l>and brought him to his loue.</l>
+                  <l>When ſhe ſaw him thus turnd by ſafe,</l>
+                  <l>She turnd her loue to mortall hate.</l>
+                  <l>
+                     <hi>Fa, la la &amp;c.</hi>
+                  </l>
+                  <l>Then wéeping to her did he ſay,</l>
+                  <l>Ile liue with thée at <hi>Shackley-hay.</hi>
+                  </l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>No<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>, (quoth ſhe) I thée deny,</l>
+                  <l>my loue thou once didſt ſcorne:</l>
+                  <l>And my prayers wouldſt not heare,</l>
+                  <l>but left me here forlone:</l>
+                  <l>And now being turnd by fate of wind,</l>
+                  <l>Thou think'ſt to win me to thy mind.</l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>Go, go, farewell, I thée denay,</l>
+                  <l>Thou ſhall not liue at <hi>Shackley-hay.</hi>
+                  </l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>If thou doſt my loue alſo <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,</l>
+                  <l>becauſe I liue on ſeas:</l>
+                  <l>Or that I am a Ferry-man,</l>
+                  <l>my <hi>Sheldra</hi> doth diſpleaſe:</l>
+                  <l>I will no more in that eſtate,</l>
+                  <l>Er ſeruile vnto wind and <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>But quite forſake Boate, Dares, &amp; Sea,</l>
+                  <l>And liue with thée at <hi>Shackley-hay.</hi>
+                  </l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>My <hi>Sheldra's</hi> bed ſhall be my Boat,</l>
+                  <l>her armes ſhall be my Dares,</l>
+                  <l>where loue in ſtead of ſtorms ſhall float,</l>
+                  <l>on pleaſant downs and ſhores:</l>
+                  <l>Her ſwéeteſt breath my gentle gale,</l>
+                  <l>Through ſides of loue to driue my ſaile.</l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>Her looke my praiſe, and ſhe my ioy,</l>
+                  <l>To liue with me at <hi>Shackley-hay,</hi>
+                  </l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>Not <hi>Phao</hi> ſhall with me compare,</l>
+                  <l>ſo fortunate to proue:</l>
+                  <l>Faire <hi>Venus</hi> neuer was his fare,</l>
+                  <l>Ile beare the Quéene of loue:</l>
+                  <l>The working waters neuer feare,</l>
+                  <l>For <hi>Cupids</hi> ſelfe our Barge ſhall ſtéere,</l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>And to the ſhore I ſtill will cry,</l>
+                  <l>My <hi>Sheldra</hi> comes to <hi>Shackley-hey.</hi>
+                  </l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>To ſtrew my Boate for thy auaile,</l>
+                  <l>Ile rob the flowrie ſhores:</l>
+                  <l>And whilſt thou guid'ſt the ſilkon ſaile,</l>
+                  <l>Ile row with ſiluer Dares:</l>
+                  <l>And as vpon the ſtreames we float,</l>
+                  <l>A thouſand Swans ſhal guide our boat.</l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>And to the ſhore ſtill will I cry,</l>
+                  <l>My <hi>Sheldra</hi> comes to <hi>Shackley-hay.</hi>
+                  </l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>And haue a ſtory painted there,</l>
+                  <l>wherein there ſhall be ſéene:</l>
+                  <l>How <hi>Sapho</hi> lou'd a Ferriman,</l>
+                  <l>being a learned Quéene.</l>
+                  <l>In golden letters ſhall be writ,</l>
+                  <l>How well in loue himſelfe he quit.</l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>That all the Laſſes ſtill ſhall cry,</l>
+                  <l>With <hi>Palmus</hi> wée'le to <hi>Shackley-hay.</hi>
+                  </l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>And walking daſtly to the Strand,</l>
+                  <l>wée'le angle in the brooke:</l>
+                  <l>And fiſh with thy white-lilly hand,</l>
+                  <l>thou néedſt no other hooke:</l>
+                  <l>To which the fiſh ſhall ſoone be brough</l>
+                  <l>&amp; ſtriue which ſhall the firſt be caught</l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>A thouſand pleaſures will we try,</l>
+                  <l>As we doe low to <hi>Shackley-hay.</hi>
+                  </l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>And if we be oppreſt with heat,</l>
+                  <l>in mid-time of the day:</l>
+                  <l>Vnder the Willowes tall and great,</l>
+                  <l>ſhall be our quiet bay:</l>
+                  <l>Where I will make thée fans of bow<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>From <hi>Phoebus</hi> beames to ſhade thy browe</l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>And cauſe them at the Ferry cry,</l>
+                  <l>A boat, a boat to <hi>Shackley-hay.</hi>
+                  </l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>A troupe of dainty neighboring girles</l>
+                  <l>ſhall dance along the ſtrand:</l>
+                  <l>Vpon the grauell all of pearles,</l>
+                  <l>to wait when thou ſhalt land,</l>
+                  <l>And caſt themſelues about thée round,</l>
+                  <l>Whilſt thou with garlands ſhall be crown</l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>And all the ſhepheards with ioy ſhal <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>O <hi>Sheldra</hi> is come to <hi>Shackley-hay.</hi>
+                  </l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>Although I did my ſelfe abſent,</l>
+                  <l>'twas but to try thy mind:</l>
+                  <l>But now thou maiſt thy ſelfe repent,</l>
+                  <l>for being ſo vnkind:</l>
+                  <l>For now thou art turnd by wind &amp; fa</l>
+                  <l>In ſtead of loue th'haſt purchaſt hate.</l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>Wherefore returne thée to the Sea,</l>
+                  <l>And bid farewell to <hi>Shackley-hay.</hi>
+                  </l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb n="351" facs="tcp:150717:1"/>
+               <head>The ſecond part,</head>
+               <opener>to the ſame tune.</opener>
+               <lg>
+                  <l>THus all in vaine he did complaine,</l>
+                  <l>and no remorſe could find:</l>
+                  <l>Yong <hi>Palmus</hi> through his own diſdaine</l>
+                  <l>made <hi>Sheldra</hi> faire vnkind:</l>
+                  <l>And ſhe is from him fled and gone,</l>
+                  <l>He laid him in his boat alone,</l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>And ſo be tooke him to the Sea,</l>
+                  <l>And bad farewell to <hi>Shackley-hay.</hi>
+                  </l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>Then from the happy ſandy ſhore,</l>
+                  <l>into the floating waues:</l>
+                  <l>His veſſell fraught with briniſh teares,</l>
+                  <l>into the maine he laues.</l>
+                  <l>But all in vaine, for why, he ſtill</l>
+                  <l>With wéeping eyes his boat did fill,</l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>And lancht his boat into the ſea,</l>
+                  <l>And bade farewell to <hi>Shackley-hay.</hi>
+                  </l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>Now farewell to my <hi>Sheldra</hi> faire,</l>
+                  <l>whom I no more ſhall ſée:</l>
+                  <l>I meane to leaue my life at ſea,</l>
+                  <l>by thy vnconſtancy.</l>
+                  <l>Come <hi>Neptune,</hi> come, to thée I cry,</l>
+                  <l>With thée Ile liue, with thée Ile dye.</l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>Thus he lancht himſelfe into the ſea,</l>
+                  <l>And bade farewell to <hi>Shackley-hay.</hi>
+                  </l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>But farre from thence he had not gone,</l>
+                  <l>ere <hi>Sheldra</hi> faire returned,</l>
+                  <l>Whoſe heart kind pity made to moue,</l>
+                  <l>ſuch paſſion in her burned:</l>
+                  <l>But when ſhe to that place arriu'd,</l>
+                  <l>She found the ſhore from him depriu'd.</l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>And her deare <hi>Palmus</hi> now at ſea,</l>
+                  <l>Had bade farewell to <hi>Shackley-hay.</hi>
+                  </l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>She then with bitter ſighes complaind,</l>
+                  <l>her griefe did ſo abound:</l>
+                  <l>Oft grieuing, that ſhe him diſdaind,</l>
+                  <l>whom ſhe ſo louing found:</l>
+                  <l>But now (alas) 'twas all in vaine,</l>
+                  <l>For he was gone by her diſdaine.</l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>Leauing that place to her alone,</l>
+                  <l>Who now laments that he is gone.</l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>O wretched <hi>Sheldra,</hi> then, quoth ſhe,</l>
+                  <l>confeſſe what fond diſdaine,</l>
+                  <l>Hath wrath cauſed to fall on thée:</l>
+                  <l>could not this long-ſuffering paine,</l>
+                  <l>By thée (alas) ſo ſoone forgot,</l>
+                  <l>Seru'd to thy loues ſtrange hatefull lot.</l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>And thus to lye, and for him crie,</l>
+                  <l>Whom thou ſo fondly didſt deny.</l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>Who once did truely loue, I ſée,</l>
+                  <l>ſhall neuer after hate,</l>
+                  <l>As doth too well appeare by me,</l>
+                  <l>in my forſaken ſtate.</l>
+                  <l>Alas, I meant my ſcorne to proue,</l>
+                  <l>By onely tryall of his loue.</l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>Now hapleſſe me, ſince I doe ſée,</l>
+                  <l>He hath forſaken wofull me,</l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>Thus all this while in rougheſt ſeas;</l>
+                  <l>poore <hi>Palmus</hi> boat was toſt:</l>
+                  <l>But more his mind with his diſeaſe,</l>
+                  <l>becauſe he <hi>Sheldra</hi> loſt.</l>
+                  <l>In midſt of this, he her forſweares,</l>
+                  <l>He rent his boat and tore his haires.</l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>Threw hope away, for he, alas,</l>
+                  <l>Could be no more drownd then he was.</l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>Euen as his grief had ſwallowed him,</l>
+                  <l>ſo ſtroue the gréedy waues:</l>
+                  <l>About his boat, and o're the brim,</l>
+                  <l>each lofty billow raues:</l>
+                  <l>There is no truſt to ſwelling powers,</l>
+                  <l>That what it may, it ſtill deuoures,</l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>But by the breach the ſeas might ſée,</l>
+                  <l>The boat felt more the rage then hée.</l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>Thus wrackt &amp; ſcatterd was their ſtate</l>
+                  <l>while he in quiet ſwomme:</l>
+                  <l>Through liquid pathes to <hi>Thetis</hi> gate,</l>
+                  <l>by ſoft degrées went downe</l>
+                  <l>Whom when the Nymphs beheld, the Girles,</l>
+                  <l>Soone layd aſide their ſorting pearles.</l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>And by they heau'd him as a gueſt,</l>
+                  <l>Vnlookt for, now come to their feaſt.</l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>His caſe they pittied: but when they</l>
+                  <l>beheld his face right faine:</l>
+                  <l>For very loue, into the ſea</l>
+                  <l>they pulld him backe againe:</l>
+                  <l>So were they with his beauty mou'd,</l>
+                  <l>For what is faire is ſoone belou'd.</l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>Thus with Nymphs he liues in the ſea</l>
+                  <l>That left his loue at <hi>Shackley-hay.</hi>
+                  </l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>Then <hi>Sheldra</hi> faire to <hi>Shackley</hi> went,</l>
+                  <l>to end her wofull dayes,</l>
+                  <l>Becauſe young <hi>Palmus</hi> caſt himſelfe</l>
+                  <l>into the floating Seas.</l>
+                  <l>At <hi>Shackley-hay</hi> did faire <hi>Sheldra</hi> dye,</l>
+                  <l>And <hi>Palmus</hi> in the ſea doth lye,</l>
+                  <l>
+                     <hi>Fa, la la, &amp;c.</hi>
+                  </l>
+                  <l>So as they liued, ſo did they dye,</l>
+                  <l>And bade farewell to <hi>Shackley-hay.</hi>
+                  </l>
+                  <l>
+                     <hi>Pa, la la, &amp;c.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for I. W.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
